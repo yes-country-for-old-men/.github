@@ -16,6 +16,33 @@
 몇 가지 입력만으로 나만의 서비스 페이지가 완성되고,  
 곧바로 고객과 연결될 수 있도록 돕습니다.
 
+## 👥 팀원 소개
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/itwillbeoptimal.png" width="80"><br>
+      <a href="https://github.com/itwillbeoptimal"><b>김지훈</b></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Kwon-HyeongIl.png" width="80"><br>
+      <a href="https://github.com/Kwon-HyeongIl"><b>권형일</b></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/kokeunho.png" width="80"><br>
+      <a href="https://github.com/kokeunho"><b>고근호</b></a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/leesy010504.png" width="80"><br>
+      <a href="https://github.com/leesy010504"><b>이상윤</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">FE · 팀장</td>
+    <td align="center">iOS</td>
+    <td align="center" colspan="2">BE</td>
+  </tr>
+</table>
+
 ## 🔥 문제 인식
 
 - **고령 사회로 빠르게 진입하는 우리 사회**  
@@ -29,15 +56,6 @@
 - **간단한 텍스트 입력 → AI 자동 콘텐츠 생성**  
 - **직관적인 UI/UX**로 누구나 쉽게 검토 및 수정 가능하며,  
 - 곧바로 **외주 서비스 등록**까지 이어집니다.
-
-## ⚙️ 기술 스택
-
-| 영역       | 기술                    |
-|------------|-------------------------|
-| 프론트엔드  | <img src="https://img.shields.io/badge/React-61dafb?logo=React&logoColor=ffffff"> |
-| iOS      | <img src="https://img.shields.io/badge/Swift_UI-f05138?logo=Swift&logoColor=ffffff"> |
-| 백엔드     | <img src="https://img.shields.io/badge/Spring_Boot-6db33f?logo=SpringBoot&logoColor=ffffff"> |
-| 콘텐츠 생성 | <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=OpenAI&logoColor=ffffff"> |
 
 ## 🎯 기대 효과
 
