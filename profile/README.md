@@ -1,6 +1,6 @@
 # 🧓 잼잼 JAMJAM
 
-![jamjam](https://github.com/user-attachments/assets/a7c78b6f-e0a1-41c8-a3e4-6a44600aa689)
+![표지](https://github.com/user-attachments/assets/49f405c1-782e-4b51-9ac7-cbc9ee2ab6ad)
 
 > **"잊혀지는 경력이 아니라, 이어지는 기회가 되도록"**  
 고령층의 삶을 더 풍요롭고 연결되게 만드는 플랫폼,  
